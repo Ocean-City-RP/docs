@@ -1,0 +1,24 @@
+remote_theme: just-the-docs/just-the-docs
+title: Advanced FiveM Core Framework
+description: Documentation for Advanced FiveM Core Framework
+baseurl: "/your-repo-name"
+url: "https://yourusername.github.io"
+
+# Enable search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "GitHub Repository":
+    - "//github.com/yourusername/your-repo-name"
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
+
+# Sort order for navigation links
+nav_sort: case_sensitive
+
+# External navigation links
+nav_external_links:
+  - title: FiveM Documentation
+    url: https://docs.fivem.net/ 
